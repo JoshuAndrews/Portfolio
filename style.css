@@ -30,8 +30,9 @@
 
 body{
     background-color: var(--corNeutra5);
+    margin: 0 auto;
     height: 100%;
-    width: 100%;
+    max-width: 1450px;
 }
 
 header {
